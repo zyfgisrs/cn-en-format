@@ -11,7 +11,7 @@ allowed-tools:
   - AskUserQuestion
 metadata:
   trigger: 修复中英混排、格式化排版、规范空格标点、中英文混排优化
-  source: 参考 selfteaching/markdown-writing-with-mixed-cn-en，精简争议规则，增强边界意识
+  source: 参考 selfteaching/markdown-writing-with-mixed-cn-en，基于原文规则简化争议项，增强边界意识
 ---
 
 # cn-en-format: 中英混排 Markdown 格式化
@@ -212,5 +212,4 @@ metadata:
 ## 参考标准
 
 - 本 skill 规则精选自 [markdown-writing-with-mixed-cn-en](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) v0.3
-- 全角标点规范参考 GB/T 15834《标点符号用法》
-- 跳过以下 repo 中有争议的规则：省略号后强制加空格、强制 Katakana Middle Dot、千分位自动加逗号、`<i>` 标签强制要求
+- 以下原文规则经评估未纳入：省略号后强制加空格、强制 Katakana Middle Dot、千分位自动加逗号、`<i>` 标签强制要求

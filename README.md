@@ -33,7 +33,7 @@ Markdown 中英混排格式化 skill，用于 Claude Code。
 
 ## 参考
 
-- [markdown-writing-with-mixed-cn-en](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) — 规则来源，取其精华去其糟粕
+- [markdown-writing-with-mixed-cn-en](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) — 规则主要来源
 - GB/T 15834《标点符号用法》— 全角标点规范参考
 
 ## 许可
